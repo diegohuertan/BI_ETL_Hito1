@@ -7,6 +7,11 @@ ETL de la base de matrícula de pregrado (CNED) 2012-2026, integrada con dos fue
 - `ETL_Hito1.ipynb`: el notebook con todo el proceso (carga, integración, limpieza, homologación de puntajes, cruces y diccionario).
 - `datos/`: los archivos originales, tal como se descargaron.
 - `salida/`: lo que genera el notebook (base limpia, tablas de las fuentes externas y diccionario de datos).
+- `docs/Canvas_BI.png`: el Canvas BI del proyecto (hecho en Miro).
+
+## Canvas BI
+
+![Canvas BI](docs/Canvas_BI.png)
 
 ## Cómo ejecutarlo
 
