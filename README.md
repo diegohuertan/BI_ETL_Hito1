@@ -27,7 +27,7 @@ Las rutas son relativas (`datos/` y `salida/`), así que hay que abrir el notebo
 | Archivo | Qué es | Origen | Fecha de descarga |
 |---|---|---|---|
 | `01_BaseINDICES_Pregrado24.xlsx` | Base del curso, 2012-2022 | Entregada por el curso | No aplica |
-| `Base-INDICES-Matricula-2005-2026.xlsx` | Base INDICES del CNED, 2005-2026 | https://cned.cl/wp-content/uploads/2026/08/Base-INDICES-Matricula-2005-2026.xlsx | 20/10/2026 |
+| `Base-INDICES-Matricula-2005-2026.xlsx` | Base INDICES del CNED, 2005-2026 | Página https://cned.cl/institucional/bases-de-datos/ (archivo: https://cned.cl/wp-content/uploads/2026/08/Base-INDICES-Matricula-2005-2026.xlsx) | 20/10/2026 |
 | `01_Esquema_Registro_Base_Pregrado.pdf` | Esquema de registro del CNED (qué significa cada columna) | https://cned.cl/wp-content/uploads/2026/08/01_Esquema_Registro_Base_Pregrado.pdf | 20/10/2026 |
 | `ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_area_tabulados.xlsx` | INE, estimaciones y proyecciones de población por región 2002-2035 (base 2017) | https://www.ine.gob.cl/docs/default-source/proyecciones-de-poblacion/cuadros-estadisticos/base-2017/ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_area_tabulados.xlsx | 19/10/2026 |
 | `TITULADO_2007-2025_web_27_05_2026_E-1.xlsx` | Titulados 2007-2025 por programa (SIES, base histórica) | https://www.mifuturo.cl/wp-content/uploads/2026/05/TITULADO_2007-2025_web_27_05_2026_E-1.xlsx | 21/10/2026 |
