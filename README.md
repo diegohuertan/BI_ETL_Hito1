@@ -1,6 +1,6 @@
 # Proyecto BI - Hito 1: ETL base INDICES pregrado
 
-ETL de la base de matrícula de pregrado (CNED) 2012-2026, integrada con dos fuentes externas: población del INE por región y titulados 2025 del SIES.
+ETL de la base de matrícula de pregrado (CNED) 2012-2026, integrada con dos fuentes externas: población del INE por región y titulados 2012-2025 del SIES.
 
 ## Qué hay en la carpeta
 
@@ -30,11 +30,11 @@ Las rutas son relativas (`datos/` y `salida/`), así que hay que abrir el notebo
 | `Base-INDICES-Matricula-2005-2026.xlsx` | Base INDICES del CNED, 2005-2026 | https://cned.cl/wp-content/uploads/2026/08/Base-INDICES-Matricula-2005-2026.xlsx | 20/10/2026 |
 | `01_Esquema_Registro_Base_Pregrado.pdf` | Esquema de registro del CNED (qué significa cada columna) | https://cned.cl/wp-content/uploads/2026/08/01_Esquema_Registro_Base_Pregrado.pdf | 20/10/2026 |
 | `ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_area_tabulados.xlsx` | INE, estimaciones y proyecciones de población por región 2002-2035 (base 2017) | https://www.ine.gob.cl/docs/default-source/proyecciones-de-poblacion/cuadros-estadisticos/base-2017/ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_area_tabulados.xlsx | 19/10/2026 |
-| `TITULADO_2025_web_27_05_2026_E.xlsx` | Titulados 2025 por programa (SIES) | https://www.mifuturo.cl/wp-content/uploads/2026/05/TITULADO_2025_web_27_05_2026_E.xlsx | 19/10/2026 |
+| `TITULADO_2007-2025_web_27_05_2026_E-1.xlsx` | Titulados 2007-2025 por programa (SIES, base histórica) | https://www.mifuturo.cl/wp-content/uploads/2026/05/TITULADO_2007-2025_web_27_05_2026_E-1.xlsx | 21/10/2026 |
 
 ## Resultados (`salida/`)
 
 - `base_pregrado_2012_2026.csv`: base integrada y limpia, 158.070 filas.
 - `poblacion_ine_region_anio.csv`: población por región y año, 2012-2026.
-- `titulados_2025_por_institucion.csv`: matrícula y titulados 2025 por institución.
+- `titulados_por_institucion_2012_2025.csv`: matrícula y titulados por institución y año, 2012-2025.
 - `Diccionario_datos.xlsx`: diccionario de datos, nombres por año, fuentes externas, resumen de fuentes y tablas puente.
